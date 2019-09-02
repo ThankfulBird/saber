@@ -1,3 +1,0 @@
-/home/bera/Documents/CProjects/saber/build/CMakeFiles/rebuild_cache.dir
-/home/bera/Documents/CProjects/saber/build/CMakeFiles/saber.test.dir
-/home/bera/Documents/CProjects/saber/build/CMakeFiles/edit_cache.dir
