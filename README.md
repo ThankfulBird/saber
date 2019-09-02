@@ -1,5 +1,5 @@
 # Saber
-![Build Status](https://travis-ci.com/ThankfulBird/saber.svg?branch=master)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Generic badge](https://img.shields.io/badge/version-v0.2.3-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/size-4.49kB-blueviolet.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![Build Status](https://travis-ci.com/ThankfulBird/saber.svg?branch=master)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Generic badge](https://img.shields.io/badge/version-v0.2.3-blueviolet.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 <br><br><br><img width="128" src="./img/project-icon.png" align="right">
 Saber is a C library to help you testing your apps using assertions.
 * __Easy To Learn:__ Saber is designed to make learning curve in its most smoothest form.
